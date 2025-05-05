@@ -1,0 +1,21 @@
+receptor= 3TZF.pdbqt
+ligand= ligand1.pdbqt
+
+ 
+
+center_x= 27.342     
+
+center_y= -4.228  
+
+center_z= 10.233
+
+ 
+
+size_x= 40
+
+size_y= 40
+
+size_z= 40
+
+num_modes = 9
+energy_range = 4
